@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/KevinGong2013/wechat/messages"
+	"github.com/cnbattle/wechat/messages"
 
 	"gopkg.in/h2non/filetype.v1"
 	"gopkg.in/h2non/filetype.v1/types"
