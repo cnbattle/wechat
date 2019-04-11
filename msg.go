@@ -18,8 +18,8 @@ import (
 
 	"github.com/cnbattle/wechat/messages"
 
-	"gopkg.in/h2non/filetype.v1"
-	"gopkg.in/h2non/filetype.v1/types"
+	"github.com/h2non/filetype"
+	"github.com/h2non/filetype/types"
 )
 
 type uploadMediaResponse struct {
